@@ -1,0 +1,10 @@
+{
+  "name": "byob",
+  "version": "0.1.0",
+  "description": "Bring Your Own Browser \u2014 let your AI agent use the Chrome you already have open",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
