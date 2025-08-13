@@ -2,3 +2,4 @@
 
 Notes and usage details for byob.
 - add a note about the defaults
+- fix a small wording issue
