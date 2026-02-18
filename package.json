@@ -1,6 +1,6 @@
 {
   "name": "byob",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Bring Your Own Browser \u2014 let your AI agent use the Chrome you already have open",
   "main": "src/index.js",
   "scripts": {
